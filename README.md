@@ -10,3 +10,10 @@ The company wants to understand and process the data coming out of data engineer
 • Clean, sanitize and manipulate data to get useful features out of raw fields
 
 • Make sense out of the raw data and help the data science team to build forecasting models on it
+
+Methodology
+1. Feature Creation
+2. Relationship between Features
+3. Column Normalization /Column Standardization
+4. Handling categorical values
+5. Missing values - Outlier treatment / Types of outliers
